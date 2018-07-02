@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+}
+.promo-form {
+	border-top: 2px solid orange;
+	background: url(../img/hbg.jpg);
+	height: 400px;
+}
+.main {
+	background: #ccc;
+
+}
+.footer {
+	background: #ccc;
+}
+.container {
+	width: 1123px;
+	padding-left: 61px;
+	padding-right: 61px;
+	margin: 0 auto;
+
+}
+.promo-form-content {
+	position: relative;
+}
+.main-content {
+	background: #fff;
+	background-clip: content-box;
+}
